@@ -2,31 +2,136 @@ body{
     background-color: black;
 }
 
-header{
-    background-color: blanchedalmond;
-}
 
 img{
-    width: 100px;
-    height:100px;
+    width: 60%;
+    height:250px;
+    position:absolute;
+    left: 20%;
+    top : 10%;
+    
+    
+    
 }
 
-#h3 {
-   
-    color: burlywood;
+p {
+   color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 
-div {
-    border-style: dashed;
-    border-color: burlywood;
-    text-align: center;
-    width: 400px;
+.sales {
+    margin: auto;
+    width: 35%;
+    border: 3px solid black;
+    padding: 10px;
     margin-top: 100px;
-    position: relative;
-    left: 500 px;
+    border-style: dashed;
+    text-align: center;
+    background-color: burlywood;
+    
 }
 
 li {
     list-style-position: inside;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: burlywood;
+    text-align: center;
+    font : 400 32px/40px Google Sans,Helvetica Neue,sans-serif;
+}
+
+#aa {
+    color: burlywood;
+    position: absolute;
+    top : 1.5%;
+    left : 1.5%;
+    font : 400 32px/40px Google Sans,Helvetica Neue,sans-serif;
+    text-decoration: none;
+}
+
+#right_img {
+    width: 20%;
+    height: 60%;
+    position: absolute;
+    top : 20%;
+    left: 80%;
+    bottom: 20%;
+}
+
+#left_img {
+    width: 20%;
+    height: 60%;
+    position: absolute;
+    top : 20%;
+    left: 0%;
+    bottom: 20%;
+}
+
+#sales_link {
+
+    color: rgb(194, 126, 24);
+    font-size: large;
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    text-align: center;
+    text-decoration: none;
+}
+
+#contact_div {
+    position: absolute;
+    right: 2%;
+    top: 2%;
+    text-align: center;
+    
+}
+h3{
+    color : burlywood;
+    
+}
+
+.contact_li {
+    list-style-position: inside;
+   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contact_a{
+    color: rgb(194, 126, 24);
+    text-decoration: none;
+    margin-right: 50px;
+}
+
+#locations_div {
+    text-align: center;
+    position: absolute;
+    left:50%;
+    top:62%;
+}
+
+.location_li{
+    color: rgb(192, 100, 14);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+position: relative;
+right: 25px;
+font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
+#open {
+    color: burlywood;
+    position: absolute;
+    left:2%;
+    top:2%;
+}
+#intro{
+    color: burlywood;
+    position: absolute;
+    left:43%;
+    top:50%;
+    text-align: center;
 }
 
