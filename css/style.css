@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+header{
+    background-color: blanchedalmond;
+}
+
+img{
+    width: 100px;
+    height:100px;
+}
+
+#h3 {
+   
+    color: burlywood;
+}
+
+div {
+    border-style: dashed;
+    border-color: burlywood;
+    text-align: center;
+    width: 400px;
+    margin-top: 100px;
+    position: relative;
+    left: 500 px;
+}
+
+li {
+    list-style-position: inside;
+}
+
