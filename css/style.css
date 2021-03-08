@@ -114,7 +114,7 @@ h3{
 }
 
 .location_li{
-    color: rgb(192, 100, 14);
+    color: rgb(194, 126, 24);
     font-family: Georgia, 'Times New Roman', Times, serif;
 position: relative;
 right: 25px;
@@ -135,3 +135,30 @@ font-family: Georgia, 'Times New Roman', Times, serif ;
     text-align: center;
 }
 
+table{
+    background-color: blanchedalmond;
+    
+} 
+
+
+.td{
+    color: black;
+    border-style: solid ;
+    border-color: black;
+    
+}
+
+th{
+    color: black;
+    border-style: solid ;
+    border-color: black;
+}
+
+#dd {
+    border-style: dotted ;
+    border-color: black;
+    
+    position:relative;
+    left: 5%;
+    top: 150px;
+}
