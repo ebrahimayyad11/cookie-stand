@@ -137,28 +137,18 @@ font-family: Georgia, 'Times New Roman', Times, serif ;
 
 table{
     background-color: blanchedalmond;
+    position: absolute;
+    left: 20%;
+    top: 40%;
     
 } 
 
 
-.td{
+.cookiesborder{
     color: black;
     border-style: solid ;
     border-color: black;
     
 }
 
-th{
-    color: black;
-    border-style: solid ;
-    border-color: black;
-}
 
-#dd {
-    border-style: dotted ;
-    border-color: black;
-    
-    position:relative;
-    left: 5%;
-    top: 150px;
-}
