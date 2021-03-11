@@ -69,8 +69,9 @@ let locations = [seattle,tokyo,dubai,paris,lima];
 let form = document.getElementById('addNewLocation');
 
 form.addEventListener('submit' , function(event){
-    table.innerHTML = "";
     event.preventDefault();
+    table.innerHTML = "";
+    
 
     let name = event.target.name.value;
     let min = parseInt(event.target.min.value);
