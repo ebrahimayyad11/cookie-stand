@@ -41,7 +41,7 @@ li {
 h1{
     color: burlywood;
     text-align: center;
-    font : 400 32px/40px Google Sans,Helvetica Neue,sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 #aa {
@@ -93,6 +93,7 @@ h1{
 }
 h3{
     color : burlywood;
+    font-family: 'Raleway', sans-serif;
     
 }
 
