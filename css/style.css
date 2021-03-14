@@ -191,3 +191,7 @@ input{
 #aa:hover{
     text-decoration: underline;
 }
+
+#list{
+    text-align: left;
+}
